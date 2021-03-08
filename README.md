@@ -1,5 +1,5 @@
-### Hi there 👋
-## resume
+### Resume
+***
 <!--
 **leeyk0818/leeyk0818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
