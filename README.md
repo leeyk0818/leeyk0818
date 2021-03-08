@@ -1,4 +1,4 @@
-## Resume
+## 이력서
 ***
 <!--
 **leeyk0818/leeyk0818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,6 +7,9 @@
 - Name: 이예경
 - Email: yklee063@gmail.com
 - GitHub: github.com/leeyk0818
+
+### 회사경력
+-크로스미디어(2020.08 ~ 2020.10)
 
 
 ### 프로젝트 경험
@@ -23,7 +26,8 @@
 - 역할: 상품명 전처리, 상품 카테고리별 분석
 - 관련기술: Python
 
-***
+---
 
 ### 수상경력
+- 세계여성발명대회 금상 (2018.07)
 
