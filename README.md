@@ -7,7 +7,7 @@
 - Name: 이예경
 - Email: yklee063@gmail.com
 - GitHub: github.com/leeyk0818
-
+***
 ### 회사경력
 -크로스미디어(2020.08 ~ 2020.10)
 ***
